@@ -1,4 +1,4 @@
-# Impact of Disease Prevalence and Data Distribution on Fairness Guarantees in Equitable Deep Learning
+# Impact of Data Distribution on Fairness Guarantees in Equitable Deep Learning
 
 ## Dataset
 
